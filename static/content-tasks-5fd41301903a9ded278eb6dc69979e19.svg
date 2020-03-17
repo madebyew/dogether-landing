@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="632px" height="1063px" viewBox="0 0 632 1063" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>screen layer 1 - header</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,4 C7.581722,4 4,7.581722 4,12 L0,12 C0,5.372583 5.372583,1.13686838e-13 12,1.13686838e-13 L12,1.13686838e-13 L12,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V2-EW">
+            <g id="Group">
+                <g id="screen-" transform="translate(129.000000, 126.000000)">
+                    <g id="Group-3" transform="translate(-129.000000, -126.000000)">
+                        <g id="screen-later-3---tasks" transform="translate(129.000000, 592.000000)">
+                            <g id="tasks">
+                                <path d="M40,0 L335,0 C357.09139,-4.05812251e-15 375,17.90861 375,40 L375,304 C375,326.09139 357.09139,344 335,344 L40,344 C17.90861,344 2.705415e-15,326.09139 0,304 L0,40 C-2.705415e-15,17.90861 17.90861,4.05812251e-15 40,0 Z" id="fg-copy" fill="#FFFFFF"></path>
+                                <g transform="translate(24.000000, 33.000000)">
+                                    <g id="task-copy-5" transform="translate(2.000000, 228.000000)">
+                                        <g id="flag" transform="translate(0.000000, 14.000000)" fill="#EBE2DD" fill-rule="nonzero">
+                                            <path d="M2,2 L1.99910402,0.999104417 C1.99860993,0.447169668 1.55103979,-1.01388809e-16 0.999104818,0 C0.447314463,1.01362244e-16 -4.00641737e-16,0.447314463 0,0.999104818 L0,15 L0,15 L2,15 L2,9 C3.66666667,9.66666667 5.33333333,10 7,10 C8.66666667,10 10.3333333,9.66666667 12,9 L12,2 C9.77777778,2.66666667 8.11111111,3 7,3 C5.88888889,3 4.22222222,2.66666667 2,2 Z" id="Path-Copy-3"></path>
+                                        </g>
+                                        <text id="No-due-date" font-family="Helvetica" font-size="14" font-weight="normal" fill="#758590">
+                                            <tspan x="34" y="40">No due date</tspan>
+                                        </text>
+                                        <text id="Upload-our-photos" font-family="Helvetica" font-size="20" font-weight="normal" line-spacing="24" fill="#202325">
+                                            <tspan x="34" y="19">Upload our photos</tspan>
+                                        </text>
+                                        <g id="done" transform="translate(286.000000, 0.000000)" fill="#EBE2DD">
+                                            <g id="Group-2" transform="translate(7.000000, 0.000000)">
+                                                <path d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 Z" id="Oval-2"></path>
+                                            </g>
+                                            <text id="Ready" font-family="Helvetica" font-size="14" font-weight="normal">
+                                                <tspan x="0" y="40">Ready</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <rect id="Rectangle-Copy-8" fill="#8D9DA8" opacity="0.100000001" x="0" y="211" width="326" height="1"></rect>
+                                    <g id="task-copy" transform="translate(0.000000, 152.000000)">
+                                        <g id="flag" transform="translate(0.000000, 14.000000)" fill="#EBE2DD" fill-rule="nonzero">
+                                            <path d="M2,2 L1.99910402,0.999104417 C1.99860993,0.447169668 1.55103979,-1.01388809e-16 0.999104818,0 C0.447314463,1.01362244e-16 -4.00641737e-16,0.447314463 0,0.999104818 L0,15 L0,15 L2,15 L2,9 C3.66666667,9.66666667 5.33333333,10 7,10 C8.66666667,10 10.3333333,9.66666667 12,9 L12,2 C9.77777778,2.66666667 8.11111111,3 7,3 C5.88888889,3 4.22222222,2.66666667 2,2 Z" id="Path-Copy-3"></path>
+                                        </g>
+                                        <text id="No-due-date" font-family="Helvetica" font-size="14" font-weight="normal" fill="#758590">
+                                            <tspan x="36" y="40">No due date</tspan>
+                                        </text>
+                                        <text id="Hire-a-guide" font-family="Helvetica" font-size="20" font-weight="normal" line-spacing="24" fill="#202325" text-decoration="line-through">
+                                            <tspan x="36" y="19">Hire a guide</tspan>
+                                        </text>
+                                        <g id="done" transform="translate(288.000000, 0.000000)" fill="#EBE2DD">
+                                            <g id="Group-2" transform="translate(7.000000, 0.000000)">
+                                                <path d="M12,0 C18.627417,0 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 Z M12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 Z" id="Oval-2"></path>
+                                            </g>
+                                            <text id="Ready" font-family="Helvetica" font-size="14" font-weight="normal">
+                                                <tspan x="0" y="40">Ready</tspan>
+                                            </text>
+                                        </g>
+                                    </g>
+                                    <rect id="Rectangle-Copy-12" fill="#8D9DA8" opacity="0.100000001" x="0" y="135" width="326" height="1"></rect>
+                                    <g id="task-copy-2" transform="translate(0.000000, 76.000000)">
+                                        <g id="flag" transform="translate(0.000000, 14.000000)" fill="#FF5E5E" fill-rule="nonzero">
+                                            <path d="M2,2 L1.99910402,0.999104417 C1.99860993,0.447169668 1.55103979,-1.01388809e-16 0.999104818,0 C0.447314463,1.01362244e-16 -4.00641737e-16,0.447314463 0,0.999104818 L0,15 L0,15 L2,15 L2,9 C3.66666667,9.66666667 5.33333333,10 7,10 C8.66666667,10 10.3333333,9.66666667 12,9 L12,2 C9.77777778,2.66666667 8.11111111,3 7,3 C5.88888889,3 4.22222222,2.66666667 2,2 Z" id="Path-Copy-3"></path>
+                                        </g>
+                                        <text id="Due-today" font-family="Helvetica" font-size="14" font-weight="normal" fill="#758590">
+                                            <tspan x="36" y="40">Due today</tspan>
+                                        </text>
+                                        <text id="Scale-Mount-Everest" font-family="Helvetica" font-size="20" font-weight="normal" line-spacing="24" fill="#202325">
+                                            <tspan x="36" y="19">Scale Mount Everest</tspan>
+                                        </text>
+                                        <g id="done-copy" transform="translate(288.000000, 0.000000)">
+                                            <text id="Doing" fill="#47A6EA" font-family="Helvetica" font-size="14" font-weight="normal">
+                                                <tspan x="0" y="40">Doing</tspan>
+                                            </text>
+                                            <g id="icon" transform="translate(7.000000, 0.000000)">
+                                                <path d="M12,1.13686838e-13 C18.627417,1.13686838e-13 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,1.13686838e-13 12,1.13686838e-13 Z M12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 Z" id="Oval-3" fill="#47A6EA"></path>
+                                                <g id="Oval-3-Copy">
+                                                    <use fill="#47A6EA" xlink:href="#path-1"></use>
+                                                    <use fill-opacity="0.5" fill="#FFFFFF" xlink:href="#path-1"></use>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <rect id="Rectangle" fill="#8D9DA8" opacity="0.100000001" x="0" y="59" width="326" height="1"></rect>
+                                    <g id="task-copy-3">
+                                        <g id="flag" transform="translate(0.000000, 14.000000)" fill="#FF5E5E" fill-rule="nonzero">
+                                            <path d="M2,1 L1.99999839,0.999103216 C1.99900997,0.447024633 1.55118429,-1.01415353e-16 0.999104818,0 C0.447314463,1.01362244e-16 -6.75748291e-17,0.447314463 0,0.999104818 L0,15 L0,15 L2,15 L2,8 C2.67509705,8.33333333 3.67509705,8.5 5,8.5 C6.98735442,8.5 7.48735442,8 9,8 C10.0084304,8 11.0084304,8.16666667 12,8.5 L12,1.5 C11.3249029,1.16666667 10.3249029,1 9,1 C7.01264558,1 6.51264558,1.5 5,1.5 C3.99156962,1.5 2.99156962,1.33333333 2,1 Z" id="Path-Copy-8"></path>
+                                        </g>
+                                        <text id="Due-yesterday" font-family="Helvetica" font-size="14" font-weight="normal" fill="#758590">
+                                            <tspan x="36" y="40">Due yesterday</tspan>
+                                        </text>
+                                        <text id="Plan-our-route" font-family="Helvetica" font-size="20" font-weight="normal" line-spacing="24" fill="#202325">
+                                            <tspan x="36" y="19">Plan our route</tspan>
+                                        </text>
+                                        <g id="done" transform="translate(290.000000, 0.000000)">
+                                            <text id="Done" fill="#00D7B1" font-family="Helvetica" font-size="14" font-weight="normal">
+                                                <tspan x="0" y="40">Done</tspan>
+                                            </text>
+                                            <g id="icon" transform="translate(5.000000, 0.000000)">
+                                                <circle id="Oval" fill="#00D7B1" cx="12" cy="12" r="12"></circle>
+                                                <path d="M11.300708,11.8118046 L15.499292,7.68819537 C15.8883078,7.30612625 16.5116922,7.30612625 16.900708,7.68819537 L18.2735801,9.03655184 C18.6676066,9.42354219 18.6733106,10.0566815 18.2863202,10.450708 C18.2821118,10.4549929 18.2778649,10.4592398 18.2735801,10.4634482 L11.300708,17.3118046 C10.9116922,17.6938737 10.2883078,17.6938737 9.89929199,17.3118046 L5.72641995,13.2134482 C5.33239341,12.8264578 5.32668945,12.1933185 5.7136798,11.799292 C5.71788817,11.7950071 5.72213506,11.7907602 5.72641995,11.7865518 L7.09929199,10.4381954 C7.48830782,10.0561263 8.11169218,10.0561263 8.50070801,10.4381954 L9.89929199,11.8118046 C10.2883078,12.1938737 10.9116922,12.1938737 11.300708,11.8118046 Z" id="Rectangle" fill="#FFFFFF"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
